@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Aboutbg from "./assets/images/aboutbg.png";
+import Aboutbg from "./assets/images/Aboutbg.png";
 import Gurashant from "./assets/images/Gurashant.jpg";
 import Parashuram from "./assets/images/Parashuram.jpg";
 import Mallikarjun from "./assets/images/Mallikarjun.jpg";
