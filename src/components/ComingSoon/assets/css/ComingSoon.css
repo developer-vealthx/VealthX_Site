@@ -1,0 +1,9 @@
+.text-shadow {
+    text-shadow: 
+      -1px -1px 0px #000000, 
+      -1px 1px 0px #000000, 
+      1px -1px 0px #000000, 
+      1px 1px 0px #000000, 
+      0.8rem 0.6rem 0px #000000;
+  }
+  
